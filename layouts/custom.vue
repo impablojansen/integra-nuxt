@@ -1,0 +1,4 @@
+<template>
+    <UNotifications />
+    <slot />
+</template>
